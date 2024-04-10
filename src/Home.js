@@ -322,14 +322,14 @@ const Home = () => {
             {/* Eight Child */}
 
             <footer>
-            <div class="container-flute" style={{paddingRight: "15px", paddingLeft: "15px", marginRight: "auto", marginLeft: "auto", paddingTop: "5rem", paddingBottom: "2rem", color: "#000", background: "url(../images/fotbg2.jpeg) no-repeat", background: "Wheat" , backgroundSize: "cover", backgroundPosition: "center"}}>
-                <div class="container mt-4">
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                    <h4 style={{ width: "100%", textAlign: "center", display: "inline-block", margin: "0px auto" }}>NIFA Is A Unit Of Nifaedutech Pvt Ltd.</h4>
-                    <p class="text-right mb-0">© Copyright 2021 NIFA Fine Arts. All Rights Reserved.</p>
-                    </nav>
+                <div class="container-flute" style={{ paddingRight: "15px", paddingLeft: "15px", marginRight: "auto", marginLeft: "auto", paddingTop: "5rem", paddingBottom: "2rem", color: "#000", background: "url(../images/fotbg2.jpeg) no-repeat", background: "Wheat", backgroundSize: "cover", backgroundPosition: "center" }}>
+                    <div class="container mt-4">
+                        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                            <h4 style={{ width: "100%", textAlign: "center", display: "inline-block", margin: "0px auto" }}>NIFA Is A Unit Of Nifaedutech Pvt Ltd.</h4>
+                            <p class="text-right mb-0">© Copyright 2021 NIFA Fine Arts. All Rights Reserved.</p>
+                        </nav>
+                    </div>
                 </div>
-</div>
             </footer>
         </>
     );
